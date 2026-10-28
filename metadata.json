@@ -1,0 +1,6 @@
+{
+  "name": "BiteSpot",
+  "description": "Order delicious food from local restaurants with live tracking, custom meals, favorites, and quick delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
